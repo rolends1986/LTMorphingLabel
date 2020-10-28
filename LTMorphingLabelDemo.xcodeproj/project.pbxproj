@@ -127,6 +127,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		ACA9B42F2548F2B700D3B564 /* LTMorphingLabel.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = LTMorphingLabel.podspec; sourceTree = "<group>"; };
 		D723B2CB196A3FD100B1BBE8 /* Sparkle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sparkle.png; sourceTree = "<group>"; };
 		D72CE5F420863C9D005BBDEF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D73DFD1A1F4DB5CC00F84122 /* MorphingLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MorphingLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -239,6 +240,7 @@
 		D74AD965195171E7009A2ACD = {
 			isa = PBXGroup;
 			children = (
+				ACA9B42F2548F2B700D3B564 /* LTMorphingLabel.podspec */,
 				D7AA544125170E1100299291 /* Package.swift */,
 				D72CE5F420863C9D005BBDEF /* README.md */,
 				D74AD98B19517201009A2ACD /* LTMorphingLabel */,
